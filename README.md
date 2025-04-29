@@ -80,3 +80,23 @@ Evita imágenes borrosas o con muchos objetos superpuestos.
 
 Si quieres probarlo, ¡sube una foto y verás cómo detecta los objetos! 🚀
 
+## Clanación a este SO: 
+
+ 11  git config --global user.name "Pablo Matías Monsalvo"
+   12  git config --global user.email "polargentino@gmail.com"
+   13  
+   14  git config --global --list
+   15  ssh-keygen -t ed25519 -C "polargentino@gmail.com"
+   16  eval "$(ssh-agent -s)"
+   17  ssh-add ~/.ssh/id_ed25519
+   18  ls
+   19  cat ~/.ssh/id_ed25519.pub
+   20  ssh -T git@github.com
+   21  cd Escritorio
+   22  ls
+   23  git clone git@github.com:polargentino/python_ia.git
+   24  ls
+   25  cd python_ia
+   26  ls
+
+   
