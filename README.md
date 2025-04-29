@@ -133,4 +133,4 @@ De nada. Lamento que no hayamos podido superar la limitación del hardware en es
 
 Si en el futuro tienes acceso a un equipo con un procesador más reciente, el entorno que configuramos (con pyenv y entornos virtuales) y los pasos que seguimos para instalar las librerías (usando requirements.txt con las versiones apropiadas, quizás volviendo a las versiones más recientes si el hardware lo soporta) deberían funcionar sin el error de "illegal hardware instruction".
 
-No dudes en consultar si tienes otras preguntas o necesitas ayuda con otros temas de configuración o desarrollo. ¡Mucho éxito con tus proyectos!
+No dudes en consultar si tienes otras preguntas o necesitas ayuda con otros temas de configuración o desarrollo. ¡Mucho éxito con tus proyectos! ok
